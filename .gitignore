@@ -1,0 +1,17 @@
+node_modules
+yarn.lock
+.vscode
+test/*
+coverage/*
+test.js
+dist
+npm-debug.log
+config/index.js
+config/env
+config/category.js
+config/wordpress.js
+config/defaultUsers.js
+yarn-error.log
+kits/category/category.txt
+version.json
+config/microServices.js
