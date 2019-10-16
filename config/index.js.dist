@@ -1,0 +1,11 @@
+module.exports = {
+  ecs: {
+    id: '',
+    region: '',
+  },
+  mailAccount: {
+    user: '',
+    pass: '',
+  },
+  notifyTo: '',
+}
