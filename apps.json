@@ -1,0 +1,13 @@
+{
+  "apps": [
+    {
+      "script": "index.js",
+      "max_memory_restart": "200M",
+      "log_date_format": "YYYY-MM-DD HH:mm:ss Z",
+      "log_file": "../appLogs/ecs-scheduler/ecs-scheduler-entire.log",
+      "error_file": "../appLogs/ecs-scheduler/ecs-scheduler-err.log",
+      "out_file": "/dev/null",
+      "name": "ecs-scheduler"
+    }
+  ]
+}
